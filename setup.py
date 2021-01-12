@@ -26,7 +26,7 @@ setup(name='python-loklak-api',
       keywords="Twitter Loklak Anonymous API",
       install_requires=[
         "asyncoro==3.5",
-        "requests==2.8.1",
+        "requests==2.20.0",
         "wsgiref==0.1.2"
       ],
       zip_safe=False,
